@@ -9,11 +9,11 @@ This project uses a Python script to color an SVG world map based on the natural
 
 The data for naturalization residence requirements is sourced from:
 
-*   [Wikipedia: Naturalization - Summary by country](https://en.wikipedia.org/w/index.php?title=Naturalization&oldid=1246939510#Summary_by_country) (as of 21/09/2024)
+*   [Wikipedia: Naturalization - Summary by country](https://en.wikipedia.org/w/index.php?title=Naturalization&oldid=1246939510#Summary_by_country) (as of 21/09/2024). The content from Wikipedia is available under the [Creative Commons Attribution-ShareAlike 4.0 License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License).  Attribution is given to Wikipedia contributors.
 
 The blank world map used:
 
-*   [Wikimedia Commons: BlankMap-World.svg](https://commons.wikimedia.org/wiki/File:BlankMap-World.svg) (Public Domain)
+*   [Wikimedia Commons: BlankMap-World.svg](https://commons.wikimedia.org/wiki/File:BlankMap-World.svg) (as of 14/08/2021). This file is in the **Public Domain** and is free to use without restrictions.
 
 ## How to Use
 
