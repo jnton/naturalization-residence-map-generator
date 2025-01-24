@@ -23,9 +23,8 @@ The blank world map used:
     cd naturalization-residence-map-generator
     ```
 2.  **Ensure you have Python installed.**
-3.  **Place the CSV data files (`country_years.csv`, `country_iso_codes.csv`) in the `data/` folder and the SVG map (`BlankMap-World.svg`) in the `svg/` folder.**
-4.  **Run the Python script from the project root directory:**
+3.  **Run the Python script from the project root directory:**
     ```bash
-    python code/Naturalization.py
+    python Naturalization.py
     ```
-5.  **The generated colored SVG map will be saved as `world_map_colored.svg` in the project root directory.**
+4.  **The generated colored SVG map will be saved as `world_map_colored.svg` in the project root directory.**
