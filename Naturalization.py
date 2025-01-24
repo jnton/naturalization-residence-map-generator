@@ -159,7 +159,7 @@ if style_tag is None:
 style_tag.text += "\n/* Naturalization Residence Requirements */\n" + css_styles
 
 # Save the updated SVG
-output_svg_path = os.path.join(script_dir, 'world_map_colored.svg')
+output_svg_path = os.path.join(script_dir, 'Naturalization Residence Requirements by Country (Years of Residence).svg')
 tree.write(output_svg_path)
 
 print(f"Successfully generated '{output_svg_path}'.")
