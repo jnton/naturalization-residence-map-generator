@@ -1,6 +1,6 @@
 # Naturalization Residence Map Generator
 
-This repository contains the Python script, data files, and SVG map used to generate the "[File:Naturalization Residence Requirements by Country (Years of Residence).svg](https://commons.wikimedia.org/wiki/File:Naturalization_Residence_Requirements_by_Country_(Years_of_Residence).svg)" image on Wikimedia Commons.
+This repository contains the Python script, data files, and SVG map used to generate the original "[File:Naturalization Residence Requirements by Country (Years of Residence).svg](https://commons.wikimedia.org/wiki/File:Naturalization_Residence_Requirements_by_Country_(Years_of_Residence).svg)" image on Wikimedia Commons.
 
 ## Description
 This project uses a Python script to color an SVG world map based on the naturalization residence requirements for different countries. The map visually represents the years of residency needed for foreigners to apply for naturalization, using a color gradient from blue (low years) to red (high years), and black for countries where naturalization is not allowed.
@@ -34,4 +34,4 @@ The blank world map used:
     python3 Naturalization.py
     ```
 
-5.  **The generated colored SVG map will be saved as `world_map_colored.svg` in the same directory.**
+5.  **The generated colored SVG map will be saved as `Naturalization Residence Requirements by Country (Years of Residence).svg` in the same directory.**
