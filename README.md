@@ -19,7 +19,7 @@ The blank world map used:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [repository URL]
+    git clone https://github.com/jnton/naturalization-residence-map-generator/
     cd naturalization-map-generator
     ```
 2.  **Ensure you have Python installed.**
