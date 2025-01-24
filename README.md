@@ -17,14 +17,21 @@ The blank world map used:
 
 ## How to Use
 
-1.  **Clone the repository:**
+1.  **Download or clone the repository:**
+    *   **Download (if you don't use Git):**  Download the ZIP file of the repository from GitHub and extract it to your computer.
+    *   **Clone (using Git):**
+        ```bash
+        git clone https://github.com/jnton/naturalization-residence-map-generator.git
+        cd naturalization-residence-map-generator
+        ```
+
+2.  **Ensure you have Python 3 installed.**
+
+3.  **Make sure all files (`Naturalization.py`, `BlankMap-World.svg`, `country_iso_codes.csv`, `country_years.csv`) are in the same directory.** (As they are in the repository by default)
+
+4.  **Run the Python script from the same directory using Python 3:**
     ```bash
-    git clone https://github.com/jnton/naturalization-residence-map-generator/
-    cd naturalization-residence-map-generator
+    python3 Naturalization.py
     ```
-2.  **Ensure you have Python installed.**
-3.  **Run the Python script from the project root directory:**
-    ```bash
-    python Naturalization.py
-    ```
-4.  **The generated colored SVG map will be saved as `world_map_colored.svg` in the project root directory.**
+
+5.  **The generated colored SVG map will be saved as `world_map_colored.svg` in the same directory.**
