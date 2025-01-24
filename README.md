@@ -20,7 +20,7 @@ The blank world map used:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/jnton/naturalization-residence-map-generator/
-    cd naturalization-map-generator
+    cd naturalization-residence-map-generator
     ```
 2.  **Ensure you have Python installed.**
 3.  **Place the CSV data files (`country_years.csv`, `country_iso_codes.csv`) in the `data/` folder and the SVG map (`BlankMap-World.svg`) in the `svg/` folder.**
